@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="AntColonySimulation.AntColonyForm">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <Members>
+      <Field Name="label1" Hidden="true" />
+      <Field Name="label2" Hidden="true" />
+      <Field Name="label3" Hidden="true" />
+      <Field Name="label4" Hidden="true" />
+      <Field Name="label5" Hidden="true" />
+      <Field Name="label6" Hidden="true" />
+      <Field Name="label7" Hidden="true" />
+      <Field Name="label8" Hidden="true" />
+      <Field Name="panel1" Hidden="true" />
+      <Field Name="panel2" Hidden="true" />
+      <Field Name="panel3" Hidden="true" />
+      <Field Name="panel4" Hidden="true" />
+      <Field Name="panel5" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>EAEIEAAABKJQAFIAAICABAQGAAASEAUMBARAIQAAEQA=</HashCode>
+      <FileName>AntColonyForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AntColonySimulation.Ant">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAIAEAACAAAACAAIAAgAQAIAAIAIAAAAAAAACYAA=</HashCode>
+      <FileName>Ant.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AntColonySimulation.Food">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAYAA=</HashCode>
+      <FileName>Food.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AntColonySimulation.Nest">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYAA=</HashCode>
+      <FileName>Nest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AntColonySimulation.RobberAnt">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABIAEAAAgCAACAAIAggAQAIAAIAIAAAAAAAACYAA=</HashCode>
+      <FileName>RobberAnt.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
